@@ -1,0 +1,3 @@
+[console_scripts]
+lidar_clustering_node = lidar_clustring.lidar_node:main
+

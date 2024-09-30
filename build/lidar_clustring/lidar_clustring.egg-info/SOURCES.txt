@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/lidar_clustring/lidar_clustring.egg-info/PKG-INFO
+../../build/lidar_clustring/lidar_clustring.egg-info/SOURCES.txt
+../../build/lidar_clustring/lidar_clustring.egg-info/dependency_links.txt
+../../build/lidar_clustring/lidar_clustring.egg-info/entry_points.txt
+../../build/lidar_clustring/lidar_clustring.egg-info/requires.txt
+../../build/lidar_clustring/lidar_clustring.egg-info/top_level.txt
+../../build/lidar_clustring/lidar_clustring.egg-info/zip-safe
+lidar_clustring/__init__.py
+lidar_clustring/lidar_node.py
+lidar_clustring/try.py
+resource/lidar_clustring
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
