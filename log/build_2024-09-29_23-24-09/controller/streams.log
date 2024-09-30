@@ -1,0 +1,21 @@
+[0.744s] Invoking command in '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/src/controller': PYTHONPATH=/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/controller build --build-base /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/build install --record /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/install.log --single-version-externally-managed install_data
+[0.925s] running egg_info
+[0.925s] writing ../../build/controller/controller.egg-info/PKG-INFO
+[0.926s] writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt
+[0.926s] writing entry points to ../../build/controller/controller.egg-info/entry_points.txt
+[0.926s] writing requirements to ../../build/controller/controller.egg-info/requires.txt
+[0.926s] writing top-level names to ../../build/controller/controller.egg-info/top_level.txt
+[0.927s] reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.928s] writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.928s] running build
+[0.928s] running build_py
+[0.928s] running install
+[0.928s] running install_lib
+[0.929s] running install_data
+[0.929s] running install_egg_info
+[0.930s] removing '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.930s] Copying ../../build/controller/controller.egg-info to /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[0.931s] running install_scripts
+[0.946s] Installing MPC_controller script to /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/controller/lib/controller
+[0.946s] writing list of installed files to '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/install.log'
+[0.965s] Invoked command in '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/src/controller' returned '0': PYTHONPATH=/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/controller build --build-base /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/build install --record /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/controller/install.log --single-version-externally-managed install_data
