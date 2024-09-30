@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Controller Node",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/controller/MPC_CBF.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/controller:${PYTHONPATH}"
+            }
+        }
+    ]
+}

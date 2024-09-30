@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/velocity_controllers/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/tricycle_steering_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/tricycle_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/bicycle_steering_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/ackermann_steering_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/steering_controllers_library/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/rosbot_hardware_interfaces/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/range_sensor_broadcaster/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/position_controllers/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/micro_ros_agent/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/micro_ros_msgs/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/mecanum_drive_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/admittance_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/joint_trajectory_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/joint_state_broadcaster/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/imu_sensor_broadcaster/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/gripper_controllers/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/effort_controllers/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/forward_command_controller/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/force_torque_sensor_broadcaster/include/**",
+        "/home/pouria/Documents/RosbotXL/rosbot_ws/install/diff_drive_controller/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
