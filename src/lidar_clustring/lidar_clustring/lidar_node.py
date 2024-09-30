@@ -45,7 +45,7 @@ class LidarClusteringNode(Node):
     def scan_callback(self, msg):
         ranges = np.array(msg.ranges)
 
-        valid_indices = np.isfinite(ranges) & (ranges <= 1.5)
+        valid_indices = np.isfinite(ranges)
         ranges = ranges[valid_indices]
         angles = np.linspace(msg.angle_min, msg.angle_max, len(msg.ranges))
         angles = angles[valid_indices]
