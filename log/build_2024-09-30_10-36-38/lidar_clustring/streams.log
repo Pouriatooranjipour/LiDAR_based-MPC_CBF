@@ -1,0 +1,21 @@
+[0.590s] Invoking command in '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/src/lidar_clustring': PYTHONPATH=/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/lidar_clustring/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_clustring build --build-base /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/build install --record /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/install.log --single-version-externally-managed install_data
+[0.755s] running egg_info
+[0.755s] writing ../../build/lidar_clustring/lidar_clustring.egg-info/PKG-INFO
+[0.755s] writing dependency_links to ../../build/lidar_clustring/lidar_clustring.egg-info/dependency_links.txt
+[0.755s] writing entry points to ../../build/lidar_clustring/lidar_clustring.egg-info/entry_points.txt
+[0.755s] writing requirements to ../../build/lidar_clustring/lidar_clustring.egg-info/requires.txt
+[0.756s] writing top-level names to ../../build/lidar_clustring/lidar_clustring.egg-info/top_level.txt
+[0.757s] reading manifest file '../../build/lidar_clustring/lidar_clustring.egg-info/SOURCES.txt'
+[0.757s] writing manifest file '../../build/lidar_clustring/lidar_clustring.egg-info/SOURCES.txt'
+[0.757s] running build
+[0.757s] running build_py
+[0.757s] running install
+[0.758s] running install_lib
+[0.758s] running install_data
+[0.759s] running install_egg_info
+[0.760s] removing '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/lidar_clustring/lib/python3.10/site-packages/lidar_clustring-0.0.0-py3.10.egg-info' (and everything under it)
+[0.760s] Copying ../../build/lidar_clustring/lidar_clustring.egg-info to /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/lidar_clustring/lib/python3.10/site-packages/lidar_clustring-0.0.0-py3.10.egg-info
+[0.760s] running install_scripts
+[0.779s] Installing lidar_clustering_node script to /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/lidar_clustring/lib/lidar_clustring
+[0.779s] writing list of installed files to '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/install.log'
+[0.796s] Invoked command in '/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/src/lidar_clustring' returned '0': PYTHONPATH=/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/install/lidar_clustring/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_clustring build --build-base /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/build install --record /home/pouria/Documents/Lidar_based_MPC_CBF_github/LiDAR_based-MPC_CBF/build/lidar_clustring/install.log --single-version-externally-managed install_data
