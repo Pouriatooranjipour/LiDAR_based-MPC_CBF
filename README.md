@@ -14,7 +14,7 @@ The effectiveness of the approach is demonstrated through simulations in the Gaz
 - **LiDAR Data Processing**: Clustering of obstacles using DBSCAN and ellipse fitting using OpenCV.
 - **Control Barrier Functions**: Synthesis and integration of CBFs into the MPC framework.
 - **Model Predictive Control**: Implementation of MPC with a shortened prediction horizon for computational efficiency.
-- **Simulation and Experimental Validation**: Tested in Gazebo simulation and on a physical unicycle-type robot with a LiDAR sensor.
+- **Simulation and Experimental Validation**: Tested in Gazebo simulation and on a physical unicycle-type robot, ROSbotXL, with a LiDAR sensor.
 
 ## Prerequisites
 
