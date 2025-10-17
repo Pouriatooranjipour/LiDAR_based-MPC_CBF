@@ -1,3 +1,0 @@
-[console_scripts]
-MPC_controller = controller.MPC_CBF:main
-
