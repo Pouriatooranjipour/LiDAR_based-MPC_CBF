@@ -117,5 +117,4 @@ Demonstration videos are available in the [`src/videos`](src/videos) directory.
 
 ## Acknowledgments
 
-- Based on research presented in the paper: *LiDAR-based MPC with Control Barrier Functions*.
-- Special thanks to the developers of ROS 2, Gazebo, OpenCV, the DBSCAN algorithm, and **Husarion ROSbot XL**.
+- Based on research presented in the paper: *P. Tooranjipour and B. Kiumarsi, "LiDAR-based Model Predictive Control using Control Barrier Functions," 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 315-322, doi: 10.23919/ACC63710.2025.11107424.*.
